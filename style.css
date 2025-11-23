@@ -9,6 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  font-family: 'Outfit';
   background-color: hsl(212, 45%, 89%);
 }
 
